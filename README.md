@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science, Mathematics, Physics, Chemistry and Politics
 - 🌱 I’m currently learning Mathematics and Programming
 - 😄 Pronouns: He
-- ⚡ Fun fact: I like to sleep on holiday
+- ⚡ Fun fact: 114514
 
 <!---
 Xue-Zhoujun-RhF6/Xue-Zhoujun-RhF6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
